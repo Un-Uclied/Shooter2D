@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Bullet
+  - Vaccine
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Vaccine
+  - Water
+  - UI
+  - Enemy
+  - Bullet
+  - BackGround
+  - Lazer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Lazer
+    uniqueID: 4208982585
+    locked: 0
+  - name: Items
+    uniqueID: 2071554769
+    locked: 0
+  - name: Enemies
+    uniqueID: 4016177013
+    locked: 0
+  - name: Vaccine
+    uniqueID: 471147267
+    locked: 0
